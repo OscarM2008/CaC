@@ -1,0 +1,53 @@
+.header-container {
+    width: auto; min-height: max-content;
+    background-color: rgb(252, 252, 252);
+    font-size : 12pt bold;
+    font-family : Verdana   , Geneva, Tahoma, sans-serif,helvetica;
+    padding: 1%;
+
+}
+.container-fluid {
+    background-color: rgb(178, 178, 178);
+    text-align: center;
+    font-style: normal; color: white; 
+
+}   
+
+.flex.container-fluid{
+    row-gap: ;
+    /* border-style: double solid color blue; */
+}
+.container-md {
+    width: 60%; min-height: max-content;
+    border-style: solid;    
+    border-color: violet;
+
+}
+.card-title{
+    text-align: center;
+    font-style: bold 14px;
+    text
+}
+.card-text{
+    text-align: center;
+    font-style: normal 12px;
+}
+.container{
+    margin-top: 2%;
+}
+h4 {
+    text-align: center;
+    font-family : Verdana, Geneva, Tahoma, sans-serif,helvetica;
+
+}
+h2 {
+    text-align: center;
+    font-family : Verdana, Geneva, Tahoma, sans-serif,helvetica;
+}
+footer {
+    background-color: rgb(178, 178, 178);
+    font-family : Verdana, Geneva, Tahoma, sans-serif,helvetica;
+    font-weight : bold;
+    text-align: center;
+    font-style: normal; color: white; 
+}
